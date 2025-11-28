@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<index version="1.0" name="ABS">
+
+  <!-- Scripts -->
+
+  <reapack name="ABS_SoundDesign_Folderize_NVKParent_5Child_VCAChildrenInline.lua" type="script" desc="ABS_SoundDesign_Folderize_NVKParent_5Child_VCAChildrenInline.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_SoundDesign_Folderize_NVKParent_5Child_VCAChildrenInline.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_SoundDesign_RemoveEmptyChildrenInAllFolders_Configs.lua" type="script" desc="ABS_SoundDesign_RemoveEmptyChildrenInAllFolders_Configs.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_SoundDesign_RemoveEmptyChildrenInAllFolders_Configs.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_SoundDesign_RemoveEmptyChildrenInSelectedFolders_Configs.lua" type="script" desc="ABS_SoundDesign_RemoveEmptyChildrenInSelectedFolders_Configs.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_SoundDesign_RemoveEmptyChildrenInSelectedFolders_Configs.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_SoundDesign_RemoveEmptyTracks.lua" type="script" desc="ABS_SoundDesign_RemoveEmptyTracks.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_SoundDesign_RemoveEmptyTracks.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_SoundDesign_Whoosh_8CH_Input.lua" type="script" desc="ABS_SoundDesign_Whoosh_8CH_Input.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_SoundDesign_Whoosh_8CH_Input.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_Tracks_InsertTemplate_Quad_NVK.lua" type="script" desc="ABS_Tracks_InsertTemplate_Quad_NVK.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_Tracks_InsertTemplate_Quad_NVK.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_Utility_GenerateActionFromTrackTemplate.lua" type="script" desc="ABS_Utility_GenerateActionFromTrackTemplate.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_Utility_GenerateActionFromTrackTemplate.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_Utility_NewVideo_Pinned.lua" type="script" desc="ABS_Utility_NewVideo_Pinned.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_Utility_NewVideo_Pinned.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_Utility_PinMasterAudioTrackTop.lua" type="script" desc="ABS_Utility_PinMasterAudioTrackTop.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_Utility_PinMasterAudioTrackTop.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_Utility_RemoveBypassedFX.lua" type="script" desc="ABS_Utility_RemoveBypassedFX.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_Utility_RemoveBypassedFX.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="ABS_Utility_VideoProcessor_NameAfterItems.lua" type="script" desc="ABS_Utility_VideoProcessor_NameAfterItems.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/ABS_Utility_VideoProcessor_NameAfterItems.lua</source>
+     </version>
+  </reapack>
+
+  <reapack name="SCHAPPS_Template_Radium_Multichannel.lua" type="script" desc="SCHAPPS_Template_Radium_Multichannel.lua">
+     <version name="1.0" author="AaronBrownSound" time="2025-11-01">
+        <source main="main">https://github.com/aaronbrownsound/ABS_Reascripts/raw/refs/heads/main/ABS/SCHAPPS_Template_Radium_Multichannel.lua</source>
+     </version>
+  </reapack>
+
+</index>
